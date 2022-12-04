@@ -1,5 +1,5 @@
 # Skylanders-portal-controler
-This is a script I made to use different skylanders and a skylanders portal to control a game. The game this was built for is Valorant. This was only tested on a windows computer using xbox 360 portals
+This is a script I made to use different skylanders and a skylanders portal to control a game. The game this was built for is Valorant. This was only tested on a windows computer using xbox 360 portals. It can only support 1 skylander at a time currently. not shure if i will add supporrt for multiple. There is a bit of input delay on this and i have tried my est to lessen it but it's still there. This isn't the most fun to play especially a shooter or a gme where you have to move arround a lot. This was just made to see if i could not for actual use.
 ## Requirements
 Main stuff:
   * ReWasd (7$ lifetime license or 7day free trial works with both)
