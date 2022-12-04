@@ -1,16 +1,16 @@
 # Skylanders-portal-controler
 # Requirements
-Main stuff:
-  ReWasd (7$ lifetime license or 7day free trial)
-  Python (3.9 64bit is the only version I have tested)
-  21 different skylanders
-  a portal (obviously)
-Python libraries:
-  vgamepad
-  array
-  pyusb
-  keyboard
-  os (should already have)
-  time (should already have)
+Main stuff:\n
+  ReWasd (7$ lifetime license or 7day free trial)\n
+  Python (3.9 64bit is the only version I have tested)\n
+  21 different skylanders\n
+  a portal (obviously)\n
+Python libraries:\n
+  vgamepad\n
+  array\n
+  pyusb\n
+  keyboard\n
+  os (should already have)\n
+  time (should already have)\n
 
 # Tutorial part
