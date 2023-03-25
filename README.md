@@ -21,7 +21,7 @@ will make video tutorial eventually hen there is one it will be here:
 ##### Portal setup
 First install zadig from here https://zadig.akeo.ie looks sketch af I know but it works.
 
-Next you ned to connect your portal to your pc and open zadig. 
+Next you need to connect your portal to your pc and open zadig. 
 
 Press options and check list all devices. 
 
@@ -36,7 +36,7 @@ First you need to connect your portal if it isn't connected already and open "Fi
 Next place the skylanders you want in the order of the inputs that you want them
 >w, a, s, d, q, e, c, x, b, space, control, shift, mouse left, mouse right, mouse up, mouse down, left click, right click, k, scroll down, scroll up
 
-after you get all 21 unique skylanders registered it hsould stop. Check the SkylanderHex.txt file to nake shure that there are 21 codes there.
+after you get all 21 unique skylanders registered it should stop. Check the SkylanderHex.txt file to make shure that there are 21 codes there.
 
 ##### ReWasd setup
 
@@ -48,7 +48,7 @@ click on the left shoulder button and make it scroll down and make the right one
 
 save the layout and turn off editing because it will sometimes overwrite the layout.
 
-If you made it this far you should be done tey it out. For Valorant unoplug your mouse before you open Val because of the anti-cheat only one cursor moving device will work at a time.
+If you made it this far you should be done tey it out. For Valorant unplug your mouse before you open Valorant because of the anti-cheat only one cursor moving device will work at a time(sometimes unnessasary just be moving mouse with skylander while Valorant is opening).
 
 Any issues post in the correct channel in the discord server here:
 
